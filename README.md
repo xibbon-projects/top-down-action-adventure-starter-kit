@@ -80,9 +80,11 @@ Discover how my GLTF files become destructible objects on drag-and-drop:
 https://github.com/user-attachments/assets/5faa3ca5-2bdd-4ee7-b710-a01933d6d776
 
 ## Game Feel Included
-Destructible elements, Hit feedback, Recoil animation (more to come):
+Destructible elements, Hit feedback, Particles, Recoil animation (more to come):
 ![killed-animation-in-game](https://github.com/user-attachments/assets/2e20c55c-2a87-4d6a-b8b1-053973a31279)
 
+Discover an example of explosion VFX:
+![demo-particles](https://github.com/user-attachments/assets/ff048914-30fb-4214-bc05-d79c89ba0391)
 
 ## Always wanted to replicate the Inifinite Inertia from Godot 3?
 Collision layers are set up to reproduce the `infinite_inertia` property which was dropped in Godot 4:
@@ -90,6 +92,7 @@ Collision layers are set up to reproduce the `infinite_inertia` property which w
 https://github.com/user-attachments/assets/99b09b1a-758d-4a40-8d3a-a13b3b70f910
 
 ## Debug Layer and Stats
+Work-in-progress, display properties when pressing L:
 ![demo-debugger](https://github.com/user-attachments/assets/866ac4e1-336a-4f91-92af-5d7c02f6be01)
 
 
@@ -106,8 +109,3 @@ If no Gamepad only the One Stick Controller works at the moment:
 - Shoot with `W` key (you can only shoot if you are aiming)
 
 Debug Layer which can be toggled with `L` key
-
-# What is coming next?
-- Game Feel: adding sounds
-- Game Feel: add muzzle and hit VFX
-- Add ennemies
