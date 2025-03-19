@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6frnb01rqc02"
-path.s3tc="res://.godot/imported/grass_hockey_prototypebits_texture.png-97ac0b733ec6f2bc844129fb0c2044d3.s3tc.ctex"
+path.etc2="res://.godot/imported/grass_hockey_prototypebits_texture.png-97ac0b733ec6f2bc844129fb0c2044d3.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://assets/objects/weapons/grass_hockey_bat/grass_hockey_prototypebits_texture.png"
-dest_files=["res://.godot/imported/grass_hockey_prototypebits_texture.png-97ac0b733ec6f2bc844129fb0c2044d3.s3tc.ctex"]
+dest_files=["res://.godot/imported/grass_hockey_prototypebits_texture.png-97ac0b733ec6f2bc844129fb0c2044d3.etc2.ctex"]
 
 [params]
 

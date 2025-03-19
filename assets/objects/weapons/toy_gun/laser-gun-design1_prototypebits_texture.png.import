@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7y1ukcr5f5b1"
-path.s3tc="res://.godot/imported/laser-gun-design1_prototypebits_texture.png-5a2323d078c7174f4ff27fbe1002b221.s3tc.ctex"
+path.etc2="res://.godot/imported/laser-gun-design1_prototypebits_texture.png-5a2323d078c7174f4ff27fbe1002b221.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://assets/objects/weapons/toy_gun/laser-gun-design1_prototypebits_texture.png"
-dest_files=["res://.godot/imported/laser-gun-design1_prototypebits_texture.png-5a2323d078c7174f4ff27fbe1002b221.s3tc.ctex"]
+dest_files=["res://.godot/imported/laser-gun-design1_prototypebits_texture.png-5a2323d078c7174f4ff27fbe1002b221.etc2.ctex"]
 
 [params]
 

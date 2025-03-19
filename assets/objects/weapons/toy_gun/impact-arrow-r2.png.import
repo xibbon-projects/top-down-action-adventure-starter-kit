@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://snnpyfqnqw38"
-path.s3tc="res://.godot/imported/impact-arrow-r2.png-501778886b06d320cdae3dea0f652192.s3tc.ctex"
+path.etc2="res://.godot/imported/impact-arrow-r2.png-501778886b06d320cdae3dea0f652192.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/objects/weapons/toy_gun/impact-arrow-r2.png"
-dest_files=["res://.godot/imported/impact-arrow-r2.png-501778886b06d320cdae3dea0f652192.s3tc.ctex"]
+dest_files=["res://.godot/imported/impact-arrow-r2.png-501778886b06d320cdae3dea0f652192.etc2.ctex"]
 
 [params]
 

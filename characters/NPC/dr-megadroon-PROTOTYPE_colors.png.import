@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3ekcok8begwv"
-path.s3tc="res://.godot/imported/dr-megadroon-PROTOTYPE_colors.png-bcd5b21e42d2a2c95a9c18f0a4d93d02.s3tc.ctex"
+path.etc2="res://.godot/imported/dr-megadroon-PROTOTYPE_colors.png-bcd5b21e42d2a2c95a9c18f0a4d93d02.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://characters/NPC/dr-megadroon-PROTOTYPE_colors.png"
-dest_files=["res://.godot/imported/dr-megadroon-PROTOTYPE_colors.png-bcd5b21e42d2a2c95a9c18f0a4d93d02.s3tc.ctex"]
+dest_files=["res://.godot/imported/dr-megadroon-PROTOTYPE_colors.png-bcd5b21e42d2a2c95a9c18f0a4d93d02.etc2.ctex"]
 
 [params]
 

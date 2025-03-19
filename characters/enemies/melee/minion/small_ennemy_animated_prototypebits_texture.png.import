@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yklinld2210n"
-path.s3tc="res://.godot/imported/small_ennemy_animated_prototypebits_texture.png-741619f3a889566f73ed4c1dafdb9736.s3tc.ctex"
+path.etc2="res://.godot/imported/small_ennemy_animated_prototypebits_texture.png-741619f3a889566f73ed4c1dafdb9736.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://characters/enemies/melee/minion/small_ennemy_animated_prototypebits_texture.png"
-dest_files=["res://.godot/imported/small_ennemy_animated_prototypebits_texture.png-741619f3a889566f73ed4c1dafdb9736.s3tc.ctex"]
+dest_files=["res://.godot/imported/small_ennemy_animated_prototypebits_texture.png-741619f3a889566f73ed4c1dafdb9736.etc2.ctex"]
 
 [params]
 

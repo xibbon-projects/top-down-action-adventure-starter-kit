@@ -1,7 +1,7 @@
 [gd_scene load_steps=33 format=4 uid="uid://ds848t2x4cxyt"]
 
 [ext_resource type="PackedScene" uid="uid://dh7bl5sry622j" path="res://characters/player/CharacterSkins/icy.glb" id="1_jnnas"]
-[ext_resource type="Script" path="res://characters/player/CharacterSkins/PlayerSkin.gd" id="2_ihbv3"]
+[ext_resource type="Script" uid="uid://w60b2fe1ebwj" path="res://characters/player/CharacterSkins/PlayerSkin.gd" id="2_ihbv3"]
 [ext_resource type="PackedScene" uid="uid://jvm2nax5dsg7" path="res://assets/objects/weapons/toy_gun/laser-gun-design1.glb" id="2_nu448"]
 [ext_resource type="Texture2D" uid="uid://c0lpx8edykpem" path="res://characters/player/CharacterSkins/icy_colors.png" id="3_8sjee"]
 [ext_resource type="Texture2D" uid="uid://dqq0avo77srm7" path="res://assets/objects/weapons/toy_gun/muzzle-effect.png" id="3_di4uy"]
